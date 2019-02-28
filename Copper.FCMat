@@ -1,0 +1,15 @@
+# This is a FreeCAD material-card file
+
+[FCMat]
+Name = None
+UltimateTensileStrength = 0 MPa
+ThermalExpansionCoefficient = 16.4 um/m/K
+SpecificPrice = 0
+YoungsModulus = 110000000.0 kPa
+Father = None
+SpecificHeat = 0.39 J/kg/K
+Density = 8.93 kg/m^3
+ThermalConductivity = 398.0 W/m/K
+PoissonRatio = 0.343
+Description = This is a not defined material
+
