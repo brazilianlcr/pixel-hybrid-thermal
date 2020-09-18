@@ -7,3 +7,5 @@ Objective: Perform Finite Element Analysis on ATLAS's microelectronics and asses
 All files are suitable input for FreeCAD FEM package. CAD files contain chip models and material files contain relevant material properties.  
 
 PPCode is a data post-processing algorithm written in Python in order to smooth the high variance near material interfaces. 
+
+
